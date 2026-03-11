@@ -4,4 +4,4 @@
 
 ## CIFAR-10 Dataset Samples
 
-![Dataset Samples](../dataset_samples/cifar10_dataset_samples.png)
+![Dataset Samples](../datasetsamples/cifar10_dataset_samples.png)
