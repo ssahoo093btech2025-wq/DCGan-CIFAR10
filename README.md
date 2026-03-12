@@ -107,5 +107,7 @@ Over the course of training:
 ## Author
 
 **Sagarika Sahoo**
+-GitHub: https://github.com/sagrika-dev-sys
+-LinkedIn: https://linkedin.com/in/sagarikasahoo2006
 
 This project was developed as part of an exploration into **Generative AI and Deep Learning**, focusing on understanding how adversarial learning enables machines to generate new visual content.
